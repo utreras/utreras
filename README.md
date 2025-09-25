@@ -1,11 +1,11 @@
-# 👋 Hola, soy Ignacio Utreras Urrutia
+# Hola 👋 Soy Ignacio Utreras Urrutia
 
-Trabajo en la intersección entre product design, frontend y growth strategy.  
+Trabajo entre entre product design, frontend y growth strategy.  
 Actualmente en [Vambe AI](https://vambe.ai), donde colaboro a escalar nuestros productos de IA y expandir su impacto en mercados B2B desde Ciudad de México y Santiago de Chile.
 
 ---
 
-## 🛠️ Tecnologías que uso
+## Tecnologías que uso 🔥
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -25,7 +25,7 @@ Actualmente en [Vambe AI](https://vambe.ai), donde colaboro a escalar nuestros p
 
 ---
 
-## 📚 Estudiando actualmente
+## Estudiando actualmente 📚
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
@@ -38,7 +38,7 @@ Actualmente en [Vambe AI](https://vambe.ai), donde colaboro a escalar nuestros p
 
 ---
 
-## 🧰 Otros conocimientos
+## Otros conocimientos 🧰
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -46,12 +46,6 @@ Actualmente en [Vambe AI](https://vambe.ai), donde colaboro a escalar nuestros p
 
 ---
 
-## 📈 GitHub Stats
-
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=utreras&show_icons=true&theme=radical)
-
----
-
-## 📫 Conecta conmigo
+## Conecta conmigo 🚀
 
 - [LinkedIn](https://www.linkedin.com/in/ignacioutreras/)
