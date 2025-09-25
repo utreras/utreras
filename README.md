@@ -5,7 +5,7 @@ Actualmente en [Vambe AI](https://vambe.ai), donde colaboro a escalar nuestros p
 
 ---
 
-## Tecnologías que uso 🔥
+## Stack 🔥
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -30,10 +30,6 @@ Actualmente en [Vambe AI](https://vambe.ai), donde colaboro a escalar nuestros p
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![tRPC](https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white)](https://trpc.io/)
-[![Zod](https://img.shields.io/badge/Zod-3b82f6?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev/)
-[![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)](https://react-hook-form.com/)
-[![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white)](https://planetscale.com/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 ---
