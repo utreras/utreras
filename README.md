@@ -1,6 +1,8 @@
 # Hey, I'm Ignacio Utreras Urrutia 👋
 Founder and CEO, Head of Product of Slatis
 
+---
+
 Most teams don't actually know what they can take on.  
 Calendars fill up, people overcommit, and capacity stays invisible, until someone burns out or a deadline slips.
 
