@@ -13,8 +13,8 @@ A scheduling platform with real capacity intelligence: routing the right meeting
 
 ---
 
-![Location](https://img.shields.io/badge/📍🇲🇽_CDMX_·_From_🇨🇱_SCL-1c2333?style=flat-square)
-![Role](https://img.shields.io/badge/🚀_Founder_%26_CEO_·_Head_of_Product-1c2333?style=flat-square)
+![Location](https://img.shields.io/badge/📍_CDMX_·_from_SCL-1c2333?style=flat-square)
+![Role](https://img.shields.io/badge/🚀_Founder_at_Slatis-1c2333?style=flat-square)
 ![Lang](https://img.shields.io/badge/💬_Spanish_·_English-1c2333?style=flat-square)
 
 ![Profile views](https://komarev.com/ghpvc/?username=utreras&style=flat-square&color=58a6ff&label=profile+views)
