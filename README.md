@@ -1,5 +1,5 @@
 # Hey, I'm Ignacio Utreras Urrutia 👋
-Founder and CEO · Head of Product of Slatis](https://github.com/getslatis)
+Founder and CEO · Head of Product of [Slatis](https://github.com/getslatis)
 
 ---
 
