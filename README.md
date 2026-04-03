@@ -13,14 +13,14 @@ A scheduling platform with real capacity intelligence: routing the right meeting
 
 ---
 
-![Location](https://img.shields.io/badge/📍_MX_·_CL-1c2333?style=flat-square)
+![Location](https://img.shields.io/badge/📍🇲🇽_CDMX_·_From_🇨🇱_SCL-1c2333?style=flat-square)
 ![Role](https://img.shields.io/badge/🚀_Founder_%26_CEO_·_Head_of_Product-1c2333?style=flat-square)
-![Open](https://img.shields.io/badge/●_Open_to_collaborate-0d2a1a?style=flat-square&color=3fb950)
-![Lang](https://img.shields.io/badge/💬_ES_·_EN-1c2333?style=flat-square)
+![Lang](https://img.shields.io/badge/💬_Spanish_·_English-1c2333?style=flat-square)
 
 ![Profile views](https://komarev.com/ghpvc/?username=utreras&style=flat-square&color=58a6ff&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/utreras?style=flat-square&color=79c0ff&label=followers)
 ![Last commit](https://img.shields.io/github/last-commit/utreras/utreras?style=flat-square&color=3fb950&label=last+commit)
+![Open](https://img.shields.io/badge/●_Open_to_collaborate-0d2a1a?style=flat-square&color=3fb950)
 
 ---
 
