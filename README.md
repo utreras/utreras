@@ -26,6 +26,7 @@ A scheduling platform with real capacity intelligence: routing the right meeting
 ## Stack
 
 ![Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,express,tailwind,graphql,prisma,postgres,redis,mysql,vercel,pnpm,docker,git,py,bash,swift,vscode,figma)
+
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
@@ -34,7 +35,7 @@ A scheduling platform with real capacity intelligence: routing the right meeting
 
 ## Connect
 
-[![Slatis](https://img.shields.io/badge/slatis.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://slatis.com)
+[![Slatis](https://img.shields.io/badge/slatis.com-000000?style=flat-square&logo=web&logoColor=white)](https://slatis.com)
 [![GitHub org](https://img.shields.io/badge/getslatis-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/getslatis)
 [![Instagram](https://img.shields.io/badge/slatishq-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/slatishq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacioutreras/)
