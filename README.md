@@ -1,4 +1,4 @@
-# Hey, I'm Ignacio Utreras Urrutia 👋
+# Hey, I'm Pablo Utreras Urrutia 👋
 Founder and CEO · Head of Product of [Slatis](https://github.com/getslatis)
 
 ---
