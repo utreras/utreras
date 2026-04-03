@@ -1,7 +1,13 @@
 # Hey, I'm Ignacio Utreras Urrutia 👋
+## Founder and CEO, Head of Product of Slatis
 
-Founder & CEO · Head of Product at [Slatis](https://slatis.com)  
-Building AI products for B2B markets — between Mexico City and Santiago de Chile.
+Most teams don't actually know what they can take on.  
+Calendars fill up, people overcommit, and capacity stays invisible, until someone burns out or a deadline slips.
+
+I'm building [Slatis](https://slatis.com) to change that.  
+A scheduling platform with real capacity intelligence: routing the right meetings to the right people, predicting team load before it becomes a problem, and giving ops teams the visibility they've never had.
+
+*Meetings end. The work doesn't. We're making sure teams can handle both.*
 
 ---
 
@@ -22,6 +28,9 @@ Building AI products for B2B markets — between Mexico City and Santiago de Chi
 
 ---
 
-## Connect 🚀
+## Connect
 
+[![Slatis](https://img.shields.io/badge/slatis.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://slatis.com)
+[![GitHub org](https://img.shields.io/badge/getslatis-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/getslatis)
+[![Instagram](https://img.shields.io/badge/slatishq-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/slatishq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacioutreras/)
