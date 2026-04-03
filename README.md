@@ -1,5 +1,5 @@
 # Hey, I'm Ignacio Utreras Urrutia 👋
-Founder and CEO, Head of Product of Slatis
+Founder and CEO · Head of Product of Slatis](https://github.com/getslatis)
 
 ---
 
@@ -16,7 +16,6 @@ A scheduling platform with real capacity intelligence: routing the right meeting
 ![Location](https://img.shields.io/badge/📍_CDMX_·_from_SCL-1c2333?style=flat-square)
 ![Role](https://img.shields.io/badge/🚀_Founder_at_Slatis-1c2333?style=flat-square)
 ![Lang](https://img.shields.io/badge/💬_Spanish_·_English-1c2333?style=flat-square)
-
 ![Profile views](https://komarev.com/ghpvc/?username=utreras&style=flat-square&color=58a6ff&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/utreras?style=flat-square&color=79c0ff&label=followers)
 ![Last commit](https://img.shields.io/github/last-commit/utreras/utreras?style=flat-square&color=3fb950&label=last+commit)
@@ -26,7 +25,10 @@ A scheduling platform with real capacity intelligence: routing the right meeting
 
 ## Stack
 
-![Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,express,tailwind,prisma,vercel,pnpm,docker,git,mysql,swift&perline=8)
+![Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,express,tailwind,graphql,prisma,postgres,redis,mysql,vercel,pnpm,docker,git,py,bash,swift,vscode,figma)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
 
 ---
 
