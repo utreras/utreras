@@ -22,12 +22,10 @@ A scheduling platform with real capacity intelligence: routing the right meeting
 ![Open](https://img.shields.io/badge/●_Open_to_collaborate-0d2a1a?style=flat-square&color=3fb950)
 
 ---
-
 ## Stack
 
-![Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,express,tailwind,graphql,prisma,postgres,redis,mysql,stripe,supabase,cloudflare,aws,turborepo,vitest,sentry,vercel,pnpm,docker,git,linux,py,bash,swift,vscode,figma)
+![Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,astro,nodejs,express,tailwind,graphql,prisma,postgres,redis,mysql,jest,supabase,cloudflare,aws,vitest,sentry,vercel,pnpm,docker,git,linux,py,bash,swift,vscode,figma)
 
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
