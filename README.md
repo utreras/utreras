@@ -1,4 +1,4 @@
-# Hey, I'm Pablo Utreras Urrutia 👋
+# Hey, I'm Ignacio Utreras Urrutia 👋
 Founder and CEO · Head of Product of [Slatis](https://github.com/getslatis) | Growth Manager at [Fintoc](https://fintoc.com)
 
 ---
