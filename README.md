@@ -1,5 +1,5 @@
 # Hey, I'm Ignacio Utreras Urrutia 👋
-Founder and CEO · Head of Product of [Slatis](https://github.com/getslatis) | Growth Manager at [Fintoc](https://fintoc.com)
+Founder and CEO · Head of Product of [Slatis](https://github.com/getslatis) | Growth at [Fintoc](https://fintoc.com)
 
 ---
 
