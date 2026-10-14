@@ -1,20 +1,21 @@
 # Hey, I'm Ignacio Utreras Urrutia 👋
-Founder and CEO · Head of Product of [Slatis](https://github.com/getslatis) | Growth at [Fintoc](https://fintoc.com)
+Cofounder, Chief Product Officer @ [Slatis](https://github.com/getslatis) | Growth at [Fintoc](https://fintoc.com)
 
 ---
 
-Most teams don't actually know what they can take on.  
-Calendars fill up, people overcommit, and capacity stays invisible, until someone burns out or a deadline slips.
+Agents already write code faster than any team or human can review it.  
+What's missing isn't speed. It's knowing when to trust what they ship, and who decided it should exist.
 
-I'm building [Slatis](https://slatis.com) to change that.  
-A scheduling platform with real capacity intelligence: routing the right meetings to the right people, predicting team load before it becomes a problem, and giving ops teams the visibility they've never had.
+We're building [Slatis](https://slatis.com) around that question.  
+Still in stealth. More soon.
 
-*Meetings end. The work doesn't. We're making sure teams can handle both.*
+*Ship it right.*
 
 ---
 
 ![Location](https://img.shields.io/badge/📍_CDMX_·_from_SCL-1c2333?style=flat-square)
-![Role](https://img.shields.io/badge/🚀_Founder_at_Slatis-1c2333?style=flat-square)
+![Role](https://img.shields.io/badge/🚀_Co--founder_at_Slatis-1c2333?style=flat-square)
+![Stealth](https://img.shields.io/badge/🕶️_Building_in_stealth-1c2333?style=flat-square)
 ![Lang](https://img.shields.io/badge/💬_Spanish_·_English-1c2333?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=utreras&style=flat-square&color=58a6ff&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/utreras?style=flat-square&color=79c0ff&label=followers)
@@ -24,7 +25,7 @@ A scheduling platform with real capacity intelligence: routing the right meeting
 ---
 ## Stack
 
-![Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,astro,nodejs,express,tailwind,graphql,prisma,postgres,redis,mysql,jest,supabase,cloudflare,aws,vitest,sentry,vercel,pnpm,docker,git,linux,py,bash,swift,vscode,figma)
+![Stack](https://skillicons.dev/icons?i=go,ts,js,react,nextjs,vite,astro,nodejs,express,tailwind,graphql,prisma,postgres,redis,mysql,jest,supabase,cloudflare,aws,vitest,sentry,vercel,pnpm,docker,git,linux,py,bash,swift,vscode,figma)
 
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
